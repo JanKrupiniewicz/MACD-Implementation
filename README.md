@@ -1,0 +1,1 @@
+The MACD (Moving Average Convergence Divergence) indicator is a popular tool in technical analysis used by investors in financial markets to predict price trends. It is based on the analysis of moving averages, which helps identify moments when the trend changes or accelerates.
